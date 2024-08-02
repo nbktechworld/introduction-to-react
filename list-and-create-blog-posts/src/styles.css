@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.post-list .post-list-item {
+  margin-bottom: 32px;
+}
+
+.post-list-item {
+  border: 2px solid black;
+  display: flex;
+}
+
+.post-list-item-data {
+  padding: 16px;
+}
